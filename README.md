@@ -1,3 +1,3 @@
 # 15 Star paylaşıyorum.
 
-disocrd.gg/altyapilar
+discord.gg/altyapilar
