@@ -1,2 +1,3 @@
-# gelisim-deprem-bilgi
+# 15 Star paylaşıyorum.
+
 disocrd.gg/altyapilar
