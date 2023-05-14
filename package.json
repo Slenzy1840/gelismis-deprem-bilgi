@@ -1,0 +1,20 @@
+{
+  "name": "raven-deprem",
+  "version": "1.0.0",
+  "description": "Raven Deprem",
+  "main": "raven.js",
+  "scripts": {
+    "test": "node raven"
+  },
+  "keywords": [],
+  "author": "slenzy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.1.1",
+    "mongose": "^0.0.2-security",
+    "node-fetch": "^3.3.1",
+    "quick.db": "^9.1.6"
+  }
+}
